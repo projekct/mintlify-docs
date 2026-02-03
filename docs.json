@@ -54,7 +54,7 @@
   },
   "banner": {
     "dismissible": false,
-    "content": "asd"
+    "content": " "
   },
   "icons": {
     "library": "lucide"
